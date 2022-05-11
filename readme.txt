@@ -1,3 +1,3 @@
 Hi Catherine!
 
-We learn git. BORING!
+We learn git. Not BORING! it's super fun!
